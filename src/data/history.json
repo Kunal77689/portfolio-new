@@ -7,6 +7,13 @@
     "imageSrc": "history/memorial.png"
   },
   {
+    "role": "Open Source",
+    "organisation": "JabRef",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "imageSrc": "history/jabref.png"
+  },
+  {
     "role": "Backend Developer",
     "organisation": "Carnegie Learning",
     "startDate": "May, 2023",

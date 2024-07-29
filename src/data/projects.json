@@ -10,11 +10,11 @@
       "Google Maps API"
     ],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/kunal77689/FindABuddyApp"
   },
   {
     "title": "Full Stack Social Media App",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/blog.png",
     "description": "",
     "skills": [
       "React",
@@ -26,11 +26,11 @@
       "EC2"
     ],
     "demo": "http://blog-app-bucket-s3.s3-website.us-east-2.amazonaws.com/login",
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/kunal77689/blog-app-frontend"
   },
   {
     "title": "Full Stack Stock Simulator game",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/stock.png",
     "description": "",
     "skills": [
       "Javascript",
@@ -38,113 +38,113 @@
       "Node",
       "MongoDB"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/Stock-simulator-game",
+    "source": "https://www.github.com/kunal77689/Stock-simulator-game"
   },
   {
     "title": "Full Stack ECommerce shopping Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/shopping.png",
     "description": "",
     "skills": [
       "MERN"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/shopping",
+    "source": "https://www.github.com/kunal77689/shopping"
   },
   {
     "title": "Portfolio Website (Older)",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/portfolio.png",
     "description": "",
     "skills": [
       "Three.js",
       "React",
       "Framer-motion"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://portfoliokunal.netlify.app/",
+    "source": "https://www.github.com/kunal77689/Eportfolio-fall-23-"
   },
   {
     "title": "Interactive Dashboard",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/dashboard.png",
     "description": "",
     "skills": [
       "Pandas",
       "plotly"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/Dashboard",
+    "source": "https://www.github.com/kunal77689/Dashboard"
   },
   {
     "title": "Bank Management System",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/bank.png",
     "description": "",
     "skills": [
       "Java"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/Bank-Management-System",
+    "source": "https://www.github.com/kunal77689/Bank-Management-System"
   },
   {
     "title": "News-24",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/news.png",
     "description": "",
     "skills": [
       "React",
       "HTML"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/News-24",
+    "source": "https://www.github.com/kunal77689/News-24"
   },
   {
     "title": "Music Player",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/music.png",
     "description": "",
     "skills": [
       "Java",
       "Android Studio"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/MusicPlayer",
+    "source": "https://www.github.com/kunal77689/MusicPlayer"
   },
   {
     "title": "Tinder Clone",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/tinder (2).png",
     "description": "",
     "skills": [
       "MERN"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/tinder-clone",
+    "source": "https://www.github.com/kunal77689/tinder-clone"
   },
   {
     "title": "Word Counter",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/word.png",
     "description": "",
     "skills": [
       "React",
       "HTML"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689/Word-Counter",
+    "source": "https://www.github.com/kunal77689/Word-Counter"
   },
   {
     "title": "FPS Zombie game",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/zombie.png",
     "description": "",
     "skills": [
       "Unreal Engine"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://drive.google.com/drive/folders/1aMzLv8-8yQBmTcm2yxytK_2xUo88pssJ",
+    "source": "https://drive.google.com/drive/folders/1aMzLv8-8yQBmTcm2yxytK_2xUo88pssJ"
   },
   {
     "title": "Game of life",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "history/game_life.png",
     "description": "",
     "skills": [
       "Java"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.github.com/kunal77689",
+    "source": "https://www.github.com/kunal77689"
   }
 ]
