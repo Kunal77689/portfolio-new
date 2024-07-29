@@ -1,0 +1,73 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  background: linear-gradient(to bottom, #000000, var(--color-secondary));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-top: 120px;
+  padding: 40px 10%;
+  position: relative;
+  overflow: hidden;
+}
+
+.text {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.text p {
+  font-size: 32px;
+  font-weight: 500;
+  color: white;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.linksContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease;
+}
+
+.link img {
+  width: 50px;
+  height: 50px;
+  filter: invert(1);
+  transition: transform 0.3s ease;
+}
+
+.link:hover {
+  transform: scale(1.1);
+}
+
+.link:hover img {
+  transform: rotate(20deg);
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding: 20px 5%;
+  }
+
+  .text p {
+    font-size: 24px;
+  }
+
+  .link img {
+    width: 40px;
+    height: 40px;
+  }
+}

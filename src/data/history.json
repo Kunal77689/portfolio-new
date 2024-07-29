@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Memorial University",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "imageSrc": "history/memorial.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "Carnegie Learning",
+    "startDate": "May, 2023",
+    "endDate": "December, 2023",
+    "imageSrc": "history/carnegie.webp"
+  },
+  {
+    "role": "Full Stack Developer",
+    "organisation": "Memorial University",
+    "startDate": "September, 2022",
+    "endDate": "December, 2022",
+    "imageSrc": "history/memorial.png"
+  },
+  {
+    "role": "Research Assistant",
+    "organisation": "Memorial University",
+    "startDate": "January, 2022",
+    "endDate": "May, 2022",
+    "imageSrc": "history/memorial.png"
+  },
+  {
+    "role": "Java Software Developer",
+    "organisation": "Memorial University",
+    "startDate": "January, 2022",
+    "endDate": "May, 2022",
+    "imageSrc": "history/memorial.png"
+  }
+]

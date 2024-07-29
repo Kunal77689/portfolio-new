@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Find a buddy",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "React Native",
+      "Firebase",
+      "Socket",
+      "Google Maps API"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Full Stack Social Media App",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "React",
+      "Express",
+      "Node",
+      "s3",
+      "Cloudfront",
+      "RDS",
+      "EC2"
+    ],
+    "demo": "http://blog-app-bucket-s3.s3-website.us-east-2.amazonaws.com/login",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Full Stack Stock Simulator game",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Javascript",
+      "Express",
+      "Node",
+      "MongoDB"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Full Stack ECommerce shopping Website",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "MERN"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Portfolio Website (Older)",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Three.js",
+      "React",
+      "Framer-motion"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Interactive Dashboard",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Pandas",
+      "plotly"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Bank Management System",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Java"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "News-24",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "React",
+      "HTML"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Music Player",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Java",
+      "Android Studio"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tinder Clone",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "MERN"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Word Counter",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "React",
+      "HTML"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "FPS Zombie game",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Unreal Engine"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Game of life",
+    "imageSrc": "projects/project.png",
+    "description": "",
+    "skills": [
+      "Java"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

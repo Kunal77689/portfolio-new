@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "history/aws.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "history/java-logo.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "history/javascript-logo-0.png"
+  },
+  {
+    "title": "Pyhton",
+    "imageSrc": "history/Python-Emblem.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "history/spring-boot-logo.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "history/Typescript_logo_2020.svg.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "PostgreSQL",
+    "imageSrc": "history/postgresql-logo.png"
+  }
+]

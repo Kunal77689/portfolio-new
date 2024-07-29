@@ -1,0 +1,90 @@
+/* src/components/ProjectCard.module.css */
+
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  background: #070707;
+  box-shadow: 0 0 12px 0 #38383a;
+  padding: 18px 24px;
+  max-width: 345px;
+  min-height: 500px; /* Ensures all cards have the same height */
+  margin: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 20px rgb(31, 30, 41);
+  cursor: pointer;
+}
+.linkContainer {
+  text-decoration: none;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 26px;
+  object-fit: cover; /* Ensures the image covers the container without distortion */
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.description {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 20px;
+  color: var(--color-text);
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px;
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.skill {
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 6px 12px;
+  color: var(--color-text);
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 8px 16px;
+  transition: background-color 0.3s ease;
+}
+
+.link:hover {
+  background: var(--color-secondary);
+}
