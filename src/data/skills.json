@@ -1,50 +1,50 @@
 [
   {
     "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fhtml.png?alt=media&token=fd0a8108-188d-49d2-9161-58fbefa9db20"
   },
   {
     "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fcss.png?alt=media&token=8912c680-732b-4c73-a709-d54bd050b6c6"
   },
   {
     "title": "React",
-    "imageSrc": "skills/react.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Freact.png?alt=media&token=4f55bcdc-afed-49d0-a94f-50dae7e94712"
   },
   {
     "title": "Node",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fnode.png?alt=media&token=45defc9c-22a4-4415-8166-5d0dc043b440"
   },
   {
     "title": "AWS",
-    "imageSrc": "history/aws.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Faws.png?alt=media&token=6545a293-6f1a-47e2-8efb-b6738151ecb1"
   },
   {
     "title": "Java",
-    "imageSrc": "history/java-logo.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fjava-logo.png?alt=media&token=8b59314b-a754-4114-8128-0f51eedbbfa1"
   },
   {
     "title": "JS",
-    "imageSrc": "history/javascript-logo-0.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fjavascript-logo-0.png?alt=media&token=10274553-af3f-4d9b-8af0-413e652f36aa"
   },
   {
     "title": "Pyhton",
-    "imageSrc": "history/Python-Emblem.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2FPython-Emblem.png?alt=media&token=d2387658-e7aa-4a18-9380-0b03602ace6f"
   },
   {
     "title": "Spring Boot",
-    "imageSrc": "history/spring-boot-logo.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fspring-boot-logo.png?alt=media&token=f272221f-b006-4792-842a-ef2144d2d40a"
   },
   {
     "title": "Typescript",
-    "imageSrc": "history/Typescript_logo_2020.svg.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2FTypescript_logo_2020.svg.png?alt=media&token=34580f4b-3903-45d1-97bf-75b004468a87"
   },
   {
     "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fmongodb.png?alt=media&token=98392c30-62c2-4d88-85d4-b5c5a2ba4008"
   },
   {
     "title": "PostgreSQL",
-    "imageSrc": "history/postgresql-logo.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fpostgresql-logo.png?alt=media&token=6df4086a-99de-4157-a012-4ee4875e2773"
   }
 ]

@@ -4,41 +4,41 @@
     "organisation": "Memorial University",
     "startDate": "May, 2024",
     "endDate": "Present",
-    "imageSrc": "history/memorial.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fmemorial.png?alt=media&token=c09d126e-7e20-4005-ac85-39664d95bdf6"
   },
   {
     "role": "Open Source",
     "organisation": "JabRef",
     "startDate": "July, 2024",
     "endDate": "Present",
-    "imageSrc": "history/jabref.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fjabref.png?alt=media&token=74906e9e-fc8e-422e-ab70-11e589ce29f2"
   },
   {
     "role": "Backend Developer",
     "organisation": "Carnegie Learning",
     "startDate": "May, 2023",
     "endDate": "December, 2023",
-    "imageSrc": "history/carnegie.webp"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fcarnegie.webp?alt=media&token=9b80b699-b251-4e44-b7ff-f895b36732cd"
   },
   {
     "role": "Full Stack Developer",
     "organisation": "Memorial University",
     "startDate": "September, 2022",
     "endDate": "December, 2022",
-    "imageSrc": "history/memorial.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fmemorial.png?alt=media&token=c09d126e-7e20-4005-ac85-39664d95bdf6"
   },
   {
     "role": "Research Assistant",
     "organisation": "Memorial University",
     "startDate": "January, 2022",
     "endDate": "May, 2022",
-    "imageSrc": "history/memorial.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fmemorial.png?alt=media&token=c09d126e-7e20-4005-ac85-39664d95bdf6"
   },
   {
     "role": "Java Software Developer",
     "organisation": "Memorial University",
     "startDate": "January, 2022",
     "endDate": "May, 2022",
-    "imageSrc": "history/memorial.png"
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fmemorial.png?alt=media&token=c09d126e-7e20-4005-ac85-39664d95bdf6"
   }
 ]

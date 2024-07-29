@@ -1,7 +1,7 @@
 [
   {
     "title": "Find a buddy",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fprojects%2Fproject.png?alt=media&token=5a7faf2f-9d2b-43e9-9d31-344620b26c37",
     "description": "",
     "skills": [
       "React Native",
@@ -14,7 +14,7 @@
   },
   {
     "title": "Full Stack Social Media App",
-    "imageSrc": "history/blog.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fblog.png?alt=media&token=55ebbb08-d941-4dd5-a46f-d88fa86143ea",
     "description": "",
     "skills": [
       "React",
@@ -30,7 +30,7 @@
   },
   {
     "title": "Full Stack Stock Simulator game",
-    "imageSrc": "history/stock.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fstock.png?alt=media&token=64499f3a-57f1-4dce-b46c-ec9b1509ee92",
     "description": "",
     "skills": [
       "Javascript",
@@ -43,7 +43,7 @@
   },
   {
     "title": "Full Stack ECommerce shopping Website",
-    "imageSrc": "history/shopping.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fshopping.png?alt=media&token=2de8cd55-3167-4230-94d3-ad216348490f",
     "description": "",
     "skills": [
       "MERN"
@@ -53,7 +53,7 @@
   },
   {
     "title": "Portfolio Website (Older)",
-    "imageSrc": "history/portfolio.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fportfolio.png?alt=media&token=a8fb1da8-4754-4b36-a7c8-5a75873021e3",
     "description": "",
     "skills": [
       "Three.js",
@@ -65,7 +65,7 @@
   },
   {
     "title": "Interactive Dashboard",
-    "imageSrc": "history/dashboard.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fdashboard.png?alt=media&token=a77dc206-1a54-4edc-b24d-8861792e2d3d",
     "description": "",
     "skills": [
       "Pandas",
@@ -76,7 +76,7 @@
   },
   {
     "title": "Bank Management System",
-    "imageSrc": "history/bank.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fbank.png?alt=media&token=e0ebce85-9c59-4239-b464-52310f29cdea",
     "description": "",
     "skills": [
       "Java"
@@ -86,7 +86,7 @@
   },
   {
     "title": "News-24",
-    "imageSrc": "history/news.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fnews.png?alt=media&token=c3285815-ae4d-4c87-9299-69b6d004fc1a",
     "description": "",
     "skills": [
       "React",
@@ -97,7 +97,7 @@
   },
   {
     "title": "Music Player",
-    "imageSrc": "history/music.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fmusic.png?alt=media&token=cc85f966-64c5-45a1-bc4d-f71336d4ae06",
     "description": "",
     "skills": [
       "Java",
@@ -108,7 +108,7 @@
   },
   {
     "title": "Tinder Clone",
-    "imageSrc": "history/tinder (2).png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Ftinder%20(2).png?alt=media&token=2ed332cc-9f8c-4516-9f7f-4b51757116e6",
     "description": "",
     "skills": [
       "MERN"
@@ -118,7 +118,7 @@
   },
   {
     "title": "Word Counter",
-    "imageSrc": "history/word.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fword.png?alt=media&token=eb281fe9-f5f2-46fc-bbfc-a148403e71d0",
     "description": "",
     "skills": [
       "React",
@@ -129,7 +129,7 @@
   },
   {
     "title": "FPS Zombie game",
-    "imageSrc": "history/zombie.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fzombie.png?alt=media&token=49c6c6d7-0207-4956-a158-0c958e99015c",
     "description": "",
     "skills": [
       "Unreal Engine"
@@ -139,7 +139,7 @@
   },
   {
     "title": "Game of life",
-    "imageSrc": "history/game_life.png",
+    "imageSrc": "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fhistory%2Fgame_life.png?alt=media&token=4f43954c-9887-4156-9dd5-9b832eb697d5",
     "description": "",
     "skills": [
       "Java"

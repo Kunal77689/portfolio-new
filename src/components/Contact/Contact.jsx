@@ -10,19 +10,31 @@ export const Contact = () => {
       </div>
       <div className={styles.linksContainer}>
         <a href="mailto:ksikka@mun.ca" className={styles.link}>
-          <img src={getImageUrl("history/gmail.png")} alt="Email icon" />
+          <img
+            src={
+              "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fcontact%2FemailIcon.png?alt=media&token=df804a42-c3c1-4c0a-a6d4-761ace4cfc4c"
+            }
+            alt="Email icon"
+          />
         </a>
         <a
           href="https://www.linkedin.com/in/kunal-sikka-015192207/"
           className={styles.link}
         >
           <img
-            src={getImageUrl("contact/linkedinIcon.png")}
+            src={
+              "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fcontact%2FlinkedinIcon.png?alt=media&token=f13b6167-64d2-460f-8834-e3829c0f4e7a"
+            }
             alt="LinkedIn icon"
           />
         </a>
         <a href="https://www.github.com/kunal77689" className={styles.link}>
-          <img src={getImageUrl("history/gihtub.png")} alt="Github icon" />
+          <img
+            src={
+              "https://firebasestorage.googleapis.com/v0/b/portfolio-943ea.appspot.com/o/assets%2Fcontact%2FgithubIcon.png?alt=media&token=d3d98557-212f-47ba-8f9b-88685b603f0c"
+            }
+            alt="Github icon"
+          />
         </a>
       </div>
     </footer>
